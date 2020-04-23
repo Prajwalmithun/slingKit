@@ -4,7 +4,7 @@
 
 ```
 ```
-./stegsolve [image]
+$ ./stegsolve [image]
 ```
 # Stegsnow
 
@@ -21,5 +21,5 @@
 > Graphical Hex editior
 
 ```
-ghex [image]
+$ ghex [image]
 ```
